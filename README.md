@@ -9,4 +9,4 @@ Learning by Coding
 * HelloTriangle: Draw a triangle through OpenGL
 * Shaders: Using Shaders to draw a colorful triangle
 * Textures: Map a picture on triangle
-* Transformations: 
+* Transformations: Using matrix to perform scaling, translation and Rotation
